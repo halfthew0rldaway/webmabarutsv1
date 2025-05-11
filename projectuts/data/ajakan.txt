@@ -1,0 +1,6 @@
+{"host":"abc","game":"ML","waktu":"abc","slot":5,"joined":1}
+{"host":"abc","game":"Valorant","waktu":"2025-05-07-20:00","slot":4,"joined":1}
+{"host":"abc2","game":"Valorant","waktu":"2025-05-07 20:01","slot":5,"joined":1}
+{"host":"abc","game":"PUBG","judul":"18+ polosan","waktu":"2025-05-07T16:05","slot":4,"joined":1}
+{"host":"abc","game":"PUBG","judul":"18+ polosan","waktu":"2025-05-07T16:05","slot":4,"joined":1}
+{"host":"abcf","game":"Valorant","judul":"harus jago","waktu":"2025-05-23T15:48","slot":5,"joined":1}
